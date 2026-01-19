@@ -9,6 +9,16 @@ An interactive Power BI dashboard analyzing Spotify music streaming data, provid
 
 ---
 
+## Dashboard Preview
+
+### Overview Page
+![Spotify Insights](Spotify%20Insights.png)
+
+
+
+
+---
+
 ## 🎯 Key Features
 
 ### 🎤 Artist & Track Analysis
